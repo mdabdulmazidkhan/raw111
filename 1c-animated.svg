@@ -1,0 +1,63 @@
+<svg width="45" height="39" viewBox="0 0 45 39" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g id="frame1">
+    <!-- 1.svg paths here -->
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M26.4047 17.9373C27.3193 ..."/>
+    <path d="M25.8272 13.4604C26.5492 ..."/>
+    <path d="M16.5848 24.0024C16.2478 ..."/>
+    <path d="M20.2432 12.3532C21.4948 ..."/>
+    <!-- etc. -->
+    <animate attributeName="opacity" values="1;0" keyTimes="0;0.142" dur="7s" begin="0s" repeatCount="indefinite"/>
+  </g>
+  <g id="frame2" opacity="0">
+    <!-- 2.svg paths here -->
+    <path d="M16.9026 27.6034C16.7101 ..."/>
+    <path d="M38.1312 23.6079C37.6499 ..."/>
+    <path d="M20.0316 18.0239C20.3685 ..."/>
+    <path d="M25.6155 15.7616C25.5193 ..."/>
+    <!-- etc. -->
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.142;0.285" dur="7s" begin="0s" repeatCount="indefinite"/>
+  </g>
+  <g id="frame3" opacity="0">
+    <!-- 3.svg paths here -->
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M25.8016 18.8999C26.7162 ..."/>
+    <path d="M25.2242 14.423C25.9463 ..."/>
+    <path d="M15.9818 24.9651C15.6449 ..."/>
+    <path d="M19.6402 13.3158C20.8918 ..."/>
+    <!-- etc. -->
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.285;0.428" dur="7s" begin="0s" repeatCount="indefinite"/>
+  </g>
+  <g id="frame4" opacity="0">
+    <!-- 4.svg paths here -->
+    <path d="M35.3894 15.2934C34.6192 ..."/>
+    <path d="M31.2978 22.4659C27.5912 ..."/>
+    <path d="M17.8672 11.9239C17.9154 ..."/>
+    <!-- etc. -->
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.428;0.571" dur="7s" begin="0s" repeatCount="indefinite"/>
+  </g>
+  <g id="frame5" opacity="0">
+    <!-- 5.svg paths here -->
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M26.4047 17.9373C27.3194 ..."/>
+    <path d="M25.6813 15.059C26.4023 ..."/>
+    <path d="M16.5848 24.0024C16.2478 ..."/>
+    <path d="M21.0006 15.7067C22.256 ..."/>
+    <!-- etc. -->
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.571;0.714" dur="7s" begin="0s" repeatCount="indefinite"/>
+  </g>
+  <g id="frame6" opacity="0">
+    <!-- 6.svg paths here -->
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M26.4047 14.9373C27.3193 ..."/>
+    <path d="M25.6813 12.059C26.4023 ..."/>
+    <path d="M16.5848 21.0024C16.2478 ..."/>
+    <path d="M21.0006 12.7067C22.256 ..."/>
+    <!-- etc. -->
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.714;0.857" dur="7s" begin="0s" repeatCount="indefinite"/>
+  </g>
+  <g id="frame7" opacity="0">
+    <!-- 7.svg paths here -->
+    <path d="M35.3894 18.2934C34.6192 ..."/>
+    <path d="M31.4154 22.2872C27.7364 ..."/>
+    <path d="M17.7577 15.1015C17.8053 ..."/>
+    <!-- etc. -->
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.857;1" dur="7s" begin="0s" repeatCount="indefinite"/>
+  </g>
+</svg>
